@@ -1,4 +1,4 @@
-# HydraDX Math Wasm
+# Tetched Math Wasm
 
 Install wasm-pack
 
